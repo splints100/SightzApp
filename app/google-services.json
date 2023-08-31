@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "920120985741",
+    "project_id": "sightz-app",
+    "storage_bucket": "sightz-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920120985741:android:d741ea29f835d533f83ac4",
+        "android_client_info": {
+          "package_name": "com.example.sightzapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920120985741-mgraf8jkqebfdge4kbu3ahmcqo6g3loj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAhD0am3OLX-Axp6ZdiYOngZsBYqv-6Jc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920120985741-mgraf8jkqebfdge4kbu3ahmcqo6g3loj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

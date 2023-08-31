@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Sightz App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="new_1"> The mellor building is a vast compund of scienece research and technology hub which covers major STEM courses in the university and it is also hav a vast number of state of the art experimental tools which assist in dealing with practical test.</string>
+    <string name="new_2">Flaxman theatre is a wonderfully design arts and visual training center to build and develop student with the much needed arts skills in various culture and traditional knowledge which can help improve arts and sign in general.</string>
+    <string name="new_3"> Cadman is the open access librray for student with 24 hours avalability to help improve student studying and learning experience, the building have the latest state of the art tools in enabling student to be sound.</string>
+    <string name="new_4">The iconic smithfield building is in the heart of the city center in hanley with a vast array of colour display of across the whole perimeter of the structure being a picture perfect sight.</string>
+    <string name="new_5"> The library is at the west end of the campus and it is well equipped with much needed archives of books collection for academic purpose and also there is a digital self service machine that help student loan boo for a given period of time </string>
+    <string name="new_6"> The catalyst is a newly completed student center for relaxation and studying with a 2 floor storey, it has state of the art infrastucture for exhibition and events showcase.</string>
+    <string name="new_7"> Take an insight into the school map overview showing a complete access directory for proper guidance around the university premises also showing the main points and landmark to ease navigation properly.</string>
+
+    <!-- Headings -->
+    <string name="head_1">Staffordshire University Mellor building</string>
+    <string name="head_2">Staffs Uni Flaxman Classical building </string>
+    <string name="head_3">Staffordshire Cadman Library Building</string>
+    <string name="head_4">Stoke On Trent Smithfield Building</string>
+    <string name="head_5">Staffordshire Ashley Library Building</string>
+    <string name="head_6">Staffordshire New Catalyst Building</string>
+    <string name="head_7">Staffordshire University Map Overview</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="register"><u>Register</u></string>
+    <string name="click_here_to_reset"><u>Forgot Password</u></string>
+    <string name="change_pwd_now">You Can change your password now</string>
+    <string name="profile_authenticated"> Your Profile has been verified</string>
+    <string name="upload_pic_u">Upload Picture</string>
+    <string name="update_email_u">Update Email</string>
+    <string name="welcome_head_profile">Welcome, %1$s!</string>
+    <string name="do_not_have_an_account">Dont have an Account?</string>
+    <string name="enter_password">Enter password</string>
+    <string name="you_are_verified">You are Verified</string>
+    <string name="searchFor">Search Here For</string>
+    <string name="enter_something">Please enter a place</string>
+    <string name="nav_picking">Picking direction</string>
+    <string name="content_map">A navigation System</string>
+
+
+    <string name="a_desc">Squeeze Box Cafe is open for student with disability to check needed grocery for lunch or breakfast and you can get some learning supply as well in the store for discounted rate and ease. Check it today and have a good exeperience while on campus studying!</string>
+    <string name="b_desc">We’re here to make sure that every student at Staffs has the best experience possible; as a student, as a member of our community and as an academic. We’re a charity run by students, for students. In fact, everything we do is led by our 16,000+ Students, through our representative processes. They elect our Student Officers, who are both our Leaders and our Trustees, supported by the Academic Reps our student also elect.</string>
+    <string name="c_desc">Areas on our Stoke-on-Trent campus like the Ember Lounge, the LRV, Squeezebox and the Verve are perfect places to network and enjoy your downtime while studying, and they’re often full of like-minded and brilliant and friendly students and staff making the most of events like kareoke nights, quizzes, sports events and live music.</string>
+    <string name="d_desc">As a higher education institution, we provide all students with the opportunities to partake in university managed team sports like, football, volleyball, american football for disabled student, it will build your team skills and help you make connections with other like-minded students. </string>
+    <string name="e_desc"> Whether you’re a future undergraduate student looking to take advantage of our guaranteed on-campus accommodation in University Halls, or you’re an existing student or postgraduate looking for advice on relocation through our links with GreenPad accommodation service – we’ve can help you get settled, and let you focus on where you’re going next. </string>
+
+    <string name="bead_1">The SqueezeBox shop</string>
+    <string name="bead_2">Staffs Student Union Pledge For Disables</string>
+    <string name="bead_3">Staffordshire University Recreational Center</string>
+    <string name="bead_4">Sir Matthew Center Training for the Challenged</string>
+    <string name="bead_5">Staffs University Support the Challenged</string>
+
+
+
+</resources>

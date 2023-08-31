@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <EditText
+        android:id="@+id/txtShowOnMap"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:inputType="text"
+        android:minHeight="48dp"
+        android:text="Staffordshire University" />
+
+    <Button
+        android:id="@+id/btnShowOnMap"
+        android:layout_width="395dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:backgroundTint="@color/red"
+        android:layout_marginEnd="8dp"
+        android:text="Show on map" />
+
+    <EditText
+        android:id="@+id/txtCallNumber"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="24dp"
+        android:layout_marginEnd="8dp"
+        android:inputType="phone"
+        android:minHeight="48dp"
+        android:text="01785353217" />
+
+    <Button
+        android:id="@+id/btnCallNumber"
+        android:layout_width="395dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:backgroundTint="@color/red"
+        android:layout_marginEnd="8dp"
+        android:text="Call number" />
+
+    <EditText
+        android:id="@+id/txtOpenWebsite"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="24dp"
+        android:layout_marginEnd="8dp"
+        android:inputType="textUri"
+        android:minHeight="48dp"
+        android:text="https://bbc.co.uk" />
+
+    <Button
+        android:id="@+id/btnOpenWebsite"
+        android:layout_width="395dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="8dp"
+        android:backgroundTint="@color/red"
+        android:color="@color/red"
+        android:text="Open website" />
+
+    <EditText
+        android:id="@+id/txtShareText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="24dp"
+        android:layout_marginEnd="8dp"
+        android:inputType="text"
+        android:minHeight="48dp"
+        android:text="The time has come, the walrus said" />
+
+    <Button
+        android:id="@+id/btnShareText"
+        android:layout_width="395dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="8dp"
+        android:backgroundTint="@color/red"
+        android:text="Share text" />
+
+</LinearLayout>
